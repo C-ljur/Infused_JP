@@ -6,7 +6,7 @@
   <SaveBreaking>False</SaveBreaking>
   <Host name="Github">
     <Owner>C-ljur</Owner>
-    <Project>Infused_JP</Project>
+    <Project>RW_Infused_JP</Project>
     <AboutDir>About</AboutDir>
     <DownloadFrom>ModSyncMainPage</DownloadFrom>
     <Branch>master</Branch>
