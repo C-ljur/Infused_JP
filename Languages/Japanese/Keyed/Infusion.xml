@@ -31,6 +31,6 @@
   <Infused.Settings.MaxSlotsDesc>この値を増やすほど、スロット上限は増加します。</Infused.Settings.MaxSlotsDesc>
   <Infused.Settings.TierCurve>等級曲線</Infused.Settings.TierCurve>
   <Infused.Settings.TierCurveDesc>計算時、値が下回った段の等級のうち、いずれかがアイテムに付与されます。</Infused.Settings.TierCurveDesc>
-  <Infused.Settings.Extra>注意: これらの確率は?Infused?カテゴリに対するものであり、アイテムの品質に対してではありません。アイテムの品質に関する確率や、\nより詳細な設定は[Infused?フォルダ]/Defs/InfusionDefs/Chances.xml?の?ChancesDef?から設定することができます。</Infused.Settings.Extra>
+  <Infused.Settings.Extra>注意: これらの確率は&#xA0;Infused&#xA0;カテゴリに対するものであり、アイテムの品質に対してではありません。アイテムの品質に関する確率や、\nより詳細な設定は[Infused&#xA0;フォルダ]/Defs/InfusionDefs/Chances.xml&#xA0;の&#xA0;ChancesDef&#xA0;から設定することができます。</Infused.Settings.Extra>
 
 </LanguageData>
