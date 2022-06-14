@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Infused>Infused</Infused>
+
+  <!-- ITab_Infused !-->
+  <Infused.Tab>詳細</Infused.Tab>
+  <Infused.Quality>品質</Infused.Quality>
+
+  <!-- Notify messages !-->
+  <Infused.Mote>加護が憑いた!</Infused.Mote>
+  <Infused.Notice>{0}に加護が憑きました!</Infused.Notice>
+
+  <!-- StatPart description !-->
+  <Infused.DescBonus>関連する加護</Infused.DescBonus>
+
+  <!-- Infused classes -->
+  <Infused.Common>コモン</Infused.Common>
+  <Infused.Uncommon>アンコモン</Infused.Uncommon>
+  <Infused.Rare>レア</Infused.Rare>
+  <Infused.Epic>上級</Infused.Epic>
+  <Infused.Legendary>特級</Infused.Legendary>
+  <Infused.Artifact>伝説級</Infused.Artifact>
+
+  <!-- Infused settings -->
+  <Infused.Settings.Multiplier>加護付与の確率乗数</Infused.Settings.Multiplier>
+  <Infused.Settings.MultiplierDesc>この値を増やすほど、加護の憑きやすさは上がります。(初期値 = 1.00)</Infused.Settings.MultiplierDesc>
+  <Infused.Settings.Bias>加護タイプの傾向</Infused.Settings.Bias>
+  <Infused.Settings.BiasDesc>この値を増やすほど、良い結果が得やすくなります。(初期値 = 0.50) </Infused.Settings.BiasDesc>
+  <Infused.Settings.MaxSlots>最大許容スロット数</Infused.Settings.MaxSlots>
+  <Infused.Settings.MaxSlotsDesc>この値を増やすほど、スロット上限は増加します。</Infused.Settings.MaxSlotsDesc>
+  <Infused.Settings.TierCurve>等級曲線</Infused.Settings.TierCurve>
+  <Infused.Settings.TierCurveDesc>計算時、値が下回った段の等級のうち、いずれかがアイテムに付与されます。</Infused.Settings.TierCurveDesc>
+  <Infused.Settings.Extra>注意: これらの確率は?Infused?カテゴリに対するものであり、アイテムの品質に対してではありません。アイテムの品質に関する確率や、\nより詳細な設定は[Infused?フォルダ]/Defs/InfusionDefs/Chances.xml?の?ChancesDef?から設定することができます。</Infused.Settings.Extra>
+
+</LanguageData>

@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Charged_Power.label>活力</Charged_Power.label>
+  <Charged_Power.labelShort>活力</Charged_Power.labelShort>
+
+  <Charged_Overwhelming.label>圧倒</Charged_Overwhelming.label>
+  <Charged_Overwhelming.labelShort>圧倒</Charged_Overwhelming.labelShort>
+
+  <Charged_Acid.label>腐食</Charged_Acid.label>
+  <Charged_Acid.labelShort>腐食</Charged_Acid.labelShort>
+
+  <Charged_Fire.label>燃焼</Charged_Fire.label>
+  <Charged_Fire.labelShort>燃焼</Charged_Fire.labelShort>
+
+  <Charged_Frost.label>氷結</Charged_Frost.label>
+  <Charged_Frost.labelShort>氷結</Charged_Frost.labelShort>
+
+  <Charged_Toxic.label>有毒</Charged_Toxic.label>
+  <Charged_Toxic.labelShort>有毒</Charged_Toxic.labelShort>
+
+  <Charged_Bomb.label>爆破</Charged_Bomb.label>
+  <Charged_Bomb.labelShort>爆破</Charged_Bomb.labelShort>
+
+  <Charged_EMP.label>電撃</Charged_EMP.label>
+  <Charged_EMP.labelShort>電撃</Charged_EMP.labelShort>
+
+  <Charged_Time.label>麻痺</Charged_Time.label>
+  <Charged_Time.labelShort>麻痺</Charged_Time.labelShort>
+
+
+</LanguageData>

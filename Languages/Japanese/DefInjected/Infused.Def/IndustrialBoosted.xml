@@ -1,0 +1,523 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- COMMON infusions begin -->
+
+  <pad0.label>厚手 (初等)</pad0.label>
+  <pad0.labelShort>厚手0</pad0.labelShort>
+
+  <def0.label>防御性 (初等)</def0.label>
+  <def0.labelShort>防御0</def0.labelShort>
+
+  <res0.label>保温性 (初等)</res0.label>
+  <res0.labelShort>耐性0</res0.labelShort>
+
+  <hot0.label>耐寒性 (初等)</hot0.label>
+  <hot0.labelShort>耐寒0</hot0.labelShort>
+
+  <coo0.label>耐暑性 (初等)</coo0.label>
+  <coo0.labelShort>耐暑0</coo0.labelShort>
+
+  <sci0.label>異国風 (初等)</sci0.label>
+  <sci0.labelShort>研究0</sci0.labelShort>
+
+  <awrk0.label>省エネ (初等)</awrk0.label>
+  <awrk0.labelShort>作業0</awrk0.labelShort>
+
+  <amed0.label>消毒済 (初等)</amed0.label>
+  <amed0.labelShort>衛生0</amed0.labelShort>
+
+  <skl0.label>学術性 (初等)</skl0.label>
+  <skl0.labelShort>学習0</skl0.labelShort>
+
+  <ani0.label>獣臭さ (初等)</ani0.label>
+  <ani0.labelShort>動物0</ani0.labelShort>
+
+  <Aspd0.label>軽量性 (初等)</Aspd0.label>
+  <Aspd0.labelShort>俊敏0</Aspd0.labelShort>
+
+  <psy0.label>詠唱力 (初等)</psy0.label>
+  <psy0.labelShort>超能0</psy0.labelShort>
+
+  <amec0.label>メカノイド技術 (初等)</amec0.label>
+  <amec0.labelShort>メカ0</amec0.labelShort>
+
+  <cmf0.label>快適性 (初等)</cmf0.label>
+  <cmf0.labelShort>快適0</cmf0.labelShort>
+
+  <bal0.label>安定性 (初等)</bal0.label>
+  <bal0.labelShort>体幹0</bal0.labelShort>
+
+  <Mspd0l.label>紫電 (初等)</Mspd0l.label>
+  <Mspd0l.labelShort>速攻0</Mspd0l.labelShort>
+
+  <dam0.label>強化型 (初等)</dam0.label>
+  <dam0.labelShort>攻撃0</dam0.labelShort>
+
+  <en0.label>改良型 (初等)</en0.label>
+  <en0.labelShort>改良0</en0.labelShort>
+
+  <cut0.label>鋸歯状 (初等)</cut0.label>
+  <cut0.labelShort>切味0</cut0.labelShort>
+
+  <mmed0.label>消毒済 (初等)</mmed0.label>
+  <mmed0.labelShort>衛生0</mmed0.labelShort>
+
+  <mwrk0.label>七つ道具式 (初等)</mwrk0.label>
+  <mwrk0.labelShort>作業0</mwrk0.labelShort>
+
+  <acc0.label>スコープ付 (初等)</acc0.label>
+  <acc0.labelShort>精密0</acc0.labelShort>
+
+  <Mspd0g.label>低摩擦 (初等)</Mspd0g.label>
+  <Mspd0g.labelShort>速攻0</Mspd0g.labelShort>
+
+  <mov0.label>狩猟用 (初等)</mov0.label>
+  <mov0.labelShort>動作0</mov0.labelShort>
+
+  <dec0.label>装飾済 (初等)</dec0.label>
+  <dec0.labelShort>装飾0</dec0.labelShort>
+
+  <rmec0.label>メカノイド技術 (初等)</rmec0.label>
+  <rmec0.labelShort>メカ0</rmec0.labelShort>
+
+  <mod0.label>改造品 (初等)</mod0.label>
+  <mod0.labelShort>改造0</mod0.labelShort>
+
+
+  <!-- UNCOMMON infusions begin -->
+
+  <pad1.label>厚手 (産業革命)</pad1.label>
+  <pad1.labelShort>厚手1</pad1.labelShort>
+
+  <def1.label>防御性 (産業革命)</def1.label>
+  <def1.labelShort>防御1</def1.labelShort>
+
+  <res1.label>保温性 (産業革命)</res1.label>
+  <res1.labelShort>耐性1</res1.labelShort>
+
+  <hot1.label>耐寒性 (産業革命)</hot1.label>
+  <hot1.labelShort>耐寒1</hot1.labelShort>
+
+  <coo1.label>耐暑性 (産業革命)</coo1.label>
+  <coo1.labelShort>耐暑1</coo1.labelShort>
+
+  <sci1.label>異国風 (産業革命)</sci1.label>
+  <sci1.labelShort>研究1</sci1.labelShort>
+
+  <awrk1.label>省エネ (産業革命)</awrk1.label>
+  <awrk1.labelShort>作業1</awrk1.labelShort>
+
+  <amed1.label>消毒済 (産業革命)</amed1.label>
+  <amed1.labelShort>衛生1</amed1.labelShort>
+
+  <skl1.label>学術性 (産業革命)</skl1.label>
+  <skl1.labelShort>学習1</skl1.labelShort>
+
+  <ani1.label>獣臭さ (産業革命)</ani1.label>
+  <ani1.labelShort>動物1</ani1.labelShort>
+
+  <Aspd1.label>軽量性 (産業革命)</Aspd1.label>
+  <Aspd1.labelShort>俊敏1</Aspd1.labelShort>
+
+  <psy1.label>詠唱力 (産業革命)</psy1.label>
+  <psy1.labelShort>超能1</psy1.labelShort>
+
+  <amec1.label>メカノイド技術 (応用)</amec1.label>
+  <amec1.labelShort>メカ1</amec1.labelShort>
+
+  <cmf1.label>快適性 (産業革命)</cmf1.label>
+  <cmf1.labelShort>快適1</cmf1.labelShort>
+
+  <bal1.label>安定性 (産業革命)</bal1.label>
+  <bal1.labelShort>体幹1</bal1.labelShort>
+
+  <Mspd1l.label>紫電 (産業革命)</Mspd1l.label>
+  <Mspd1l.labelShort>速攻1</Mspd1l.labelShort>
+
+  <dam1.label>強化型 (産業革命)</dam1.label>
+  <dam1.labelShort>攻撃1</dam1.labelShort>
+
+  <en1.label>改良型 (産業革命)</en1.label>
+  <en1.labelShort>改良1</en1.labelShort>
+
+  <cut1.label>鋸歯状 (産業革命)</cut1.label>
+  <cut1.labelShort>切味1</cut1.labelShort>
+
+  <mmed1.label>消毒済 (産業革命)</mmed1.label>
+  <mmed1.labelShort>衛生1</mmed1.labelShort>
+
+  <mwrk1.label>七つ道具式 (産業革命)</mwrk1.label>
+  <mwrk1.labelShort>作業1</mwrk1.labelShort>
+
+  <acc1.label>スコープ付 (産業革命)</acc1.label>
+  <acc1.labelShort>精密1</acc1.labelShort>
+
+  <Mspd1g.label>低摩擦 (産業革命)</Mspd1g.label>
+  <Mspd1g.labelShort>速攻1</Mspd1g.labelShort>
+
+  <mov1.label>狩猟用 (産業革命)</mov1.label>
+  <mov1.labelShort>動作1</mov1.labelShort>
+
+  <dec1.label>装飾済 (産業革命)</dec1.label>
+  <dec1.labelShort>装飾1</dec1.labelShort>
+
+  <rmec1.label>メカノイド技術 (応用)</rmec1.label>
+  <rmec1.labelShort>メカ1</rmec1.labelShort>
+
+  <mod1.label>改造品 (産業革命)</mod1.label>
+  <mod1.labelShort>改造1</mod1.labelShort>
+
+
+  <!-- RARE infusions begin -->
+
+  <pad2.label>厚手 (21世紀)</pad2.label>
+  <pad2.labelShort>厚手2</pad2.labelShort>
+
+  <def2.label>防御性 (21世紀)</def2.label>
+  <def2.labelShort>防御2</def2.labelShort>
+
+  <res2.label>保温性 (21世紀)</res2.label>
+  <res2.labelShort>耐性2</res2.labelShort>
+
+  <hot2.label>耐寒性 (21世紀)</hot2.label>
+  <hot2.labelShort>耐寒2</hot2.labelShort>
+
+  <coo2.label>耐暑性 (21世紀)</coo2.label>
+  <coo2.labelShort>耐暑2</coo2.labelShort>
+
+  <sci2.label>異国風 (21世紀)</sci2.label>
+  <sci2.labelShort>研究2</sci2.labelShort>
+
+  <awrk2.label>省エネ (21世紀)</awrk2.label>
+  <awrk2.labelShort>作業2</awrk2.labelShort>
+
+  <amed2.label>消毒済 (21世紀)</amed2.label>
+  <amed2.labelShort>衛生2</amed2.labelShort>
+
+  <ani2m.label>学術性 (21世紀)</ani2m.label>
+  <ani2m.labelShort>動物2</ani2m.labelShort>
+
+  <ani2.label>獣臭さ (21世紀)</ani2.label>
+  <ani2.labelShort>動物2</ani2.labelShort>
+
+  <Aspd2.label>軽量性 (21世紀)</Aspd2.label>
+  <Aspd2.labelShort>俊敏2</Aspd2.labelShort>
+
+  <psy2.label>詠唱力 (21世紀)</psy2.label>
+  <psy2.labelShort>超能2</psy2.labelShort>
+
+  <amec2.label>メカノイド技術 (先端)</amec2.label>
+  <amec2.labelShort>メカ2</amec2.labelShort>
+
+  <cmf2.label>快適性 (21世紀)</cmf2.label>
+  <cmf2.labelShort>快適2</cmf2.labelShort>
+
+  <bal2.label>安定性 (21世紀)</bal2.label>
+  <bal2.labelShort>体幹2</bal2.labelShort>
+
+  <Mspd2l.label>紫電 (21世紀)</Mspd2l.label>
+  <Mspd2l.labelShort>速攻2</Mspd2l.labelShort>
+
+  <dam2.label>強化型 (21世紀)</dam2.label>
+  <dam2.labelShort>攻撃2</dam2.labelShort>
+
+  <en2.label>改良型 (21世紀)</en2.label>
+  <en2.labelShort>改良2</en2.labelShort>
+
+  <cut2.label>鋸歯状 (21世紀)</cut2.label>
+  <cut2.labelShort>切味2</cut2.labelShort>
+
+  <mmed2.label>消毒済 (21世紀)</mmed2.label>
+  <mmed2.labelShort>衛生2</mmed2.labelShort>
+
+  <mwrk2.label>七つ道具式 (21世紀)</mwrk2.label>
+  <mwrk2.labelShort>作業2</mwrk2.labelShort>
+
+  <acc2.label>スコープ付 (21世紀)</acc2.label>
+  <acc2.labelShort>精密2</acc2.labelShort>
+
+  <Mspd2g.label>低摩擦 (21世紀)</Mspd2g.label>
+  <Mspd2g.labelShort>速攻2</Mspd2g.labelShort>
+
+  <mov2.label>狩猟用 (21世紀)</mov2.label>
+  <mov2.labelShort>動作2</mov2.labelShort>
+
+  <dec2.label>装飾済 (21世紀)</dec2.label>
+  <dec2.labelShort>装飾2</dec2.labelShort>
+
+  <rmec2.label>メカノイド技術 (先端)</rmec2.label>
+  <rmec2.labelShort>メカ2</rmec2.labelShort>
+
+  <mod2.label>改造品 (21世紀)</mod2.label>
+  <mod2.labelShort>改造2</mod2.labelShort>
+
+
+  <!-- EPIC infusions begin -->
+
+  <pad3.label>耐衝撃性 (近未来)</pad3.label>
+  <pad3.labelShort>厚手3</pad3.labelShort>
+
+  <def3.label>弾道偏向 (近未来)</def3.label>
+  <def3.labelShort>防御3</def3.labelShort>
+
+  <res3.label>耐火性 (近未来)</res3.label>
+  <res3.labelShort>耐性3</res3.labelShort>
+
+  <hot3.label>発熱性 (近未来)</hot3.label>
+  <hot3.labelShort>耐寒3</hot3.labelShort>
+
+  <coo3.label>放熱性 (近未来)</coo3.label>
+  <coo3.labelShort>耐暑3</coo3.labelShort>
+
+  <sci3.label>走査式 (近未来)</sci3.label>
+  <sci3.labelShort>研究3</sci3.labelShort>
+
+  <awrk3.label>鉄筋繊維織込 (近未来)</awrk3.label>
+  <awrk3.labelShort>作業3</awrk3.labelShort>
+
+  <amed3.label>無菌化 (近未来)</amed3.label>
+  <amed3.labelShort>衛生3</amed3.labelShort>
+
+  <skl3.label>神経ワイヤ織込 (近未来)</skl3.label>
+  <skl3.labelShort>学習3</skl3.labelShort>
+
+  <ani3.label>フェロモン付 (近未来)</ani3.label>
+  <ani3.labelShort>動物3</ani3.labelShort>
+
+  <Aspd3.label>滑走ワイヤ織込 (近未来)</Aspd3.label>
+  <Aspd3.labelShort>俊敏3</Aspd3.labelShort>
+
+  <psy3.label>バリア付 (近未来)</psy3.label>
+  <psy3.labelShort>超能3</psy3.labelShort>
+
+  <axen0.label>外界技術 (初等)</axen0.label>
+  <axen0.labelShort>外界0</axen0.labelShort>
+
+  <cmf3.label>贅沢品 (近未来)</cmf3.label>
+  <cmf3.labelShort>快適3</cmf3.labelShort>
+
+  <bal3.label>ガイド付 (近未来)</bal3.label>
+  <bal3.labelShort>体幹3</bal3.labelShort>
+
+  <Mspd3t.label>ターボ付 (近未来)</Mspd3t.label>
+  <Mspd3t.labelShort>速攻3</Mspd3t.labelShort>
+
+  <dam3.label>ショック攻撃 (近未来)</dam3.label>
+  <dam3.labelShort>攻撃3</dam3.labelShort>
+
+  <en3.label>エネルギー補給 (近未来)</en3.label>
+  <en3.labelShort>改良3</en3.labelShort>
+
+  <cut3.label>一刀両断 (近未来)</cut3.label>
+  <cut3.labelShort>切味3</cut3.labelShort>
+
+  <mmed3.label>無菌化 (近未来)</mmed3.label>
+  <mmed3.labelShort>衛生3</mmed3.labelShort>
+
+  <mwrk3.label>自動化 (近未来)</mwrk3.label>
+  <mwrk3.labelShort>作業3</mwrk3.labelShort>
+
+  <acc3.label>レーザー照準付 (近未来)</acc3.label>
+  <acc3.labelShort>精密3</acc3.labelShort>
+
+  <Mspd3r.label>再装填 (近未来)</Mspd3r.label>
+  <Mspd3r.labelShort>速攻3</Mspd3r.labelShort>
+
+  <mov3.label>滑走式 (近未来)</mov3.label>
+  <mov3.labelShort>動作3</mov3.labelShort>
+
+  <dec3.label>豪華絢爛 (近未来)</dec3.label>
+  <dec3.labelShort>装飾3</dec3.labelShort>
+
+  <rxen1.label>外界技術 (初等)</rxen1.label>
+  <rxen1.labelShort>外界1</rxen1.labelShort>
+
+  <mod3.label>特注品 (近未来)</mod3.label>
+  <mod3.labelShort>改造3</mod3.labelShort>
+
+
+  <!-- LEGENDARY infusions begin -->
+
+  <pad4.label>耐衝撃性 (宇宙世紀)</pad4.label>
+  <pad4.labelShort>厚手4</pad4.labelShort>
+
+  <def4.label>弾道偏向 (宇宙世紀)</def4.label>
+  <def4.labelShort>防御4</def4.labelShort>
+
+  <res4.label>耐火性 (宇宙世紀)</res4.label>
+  <res4.labelShort>耐性4</res4.labelShort>
+
+  <hot4.label>発熱性 (宇宙世紀)</hot4.label>
+  <hot4.labelShort>耐寒4</hot4.labelShort>
+
+  <coo4.label>放熱性 (宇宙世紀)</coo4.label>
+  <coo4.labelShort>耐暑4</coo4.labelShort>
+
+  <sci4.label>走査式 (宇宙世紀)</sci4.label>
+  <sci4.labelShort>研究4</sci4.labelShort>
+
+  <awrk4.label>鉄筋繊維織込 (宇宙世紀)</awrk4.label>
+  <awrk4.labelShort>作業4</awrk4.labelShort>
+
+  <amed4.label>無菌化 (宇宙世紀)</amed4.label>
+  <amed4.labelShort>衛生4</amed4.labelShort>
+
+  <skl4.label>神経ワイヤ織込 (宇宙世紀)</skl4.label>
+  <skl4.labelShort>学習4</skl4.labelShort>
+
+  <ani4.label>フェロモン付 (宇宙世紀)</ani4.label>
+  <ani4.labelShort>動物4</ani4.labelShort>
+
+  <Aspd4.label>滑走ワイヤ織込 (宇宙世紀)</Aspd4.label>
+  <Aspd4.labelShort>俊敏4</Aspd4.labelShort>
+
+  <psy4.label>バリア付 (宇宙世紀)</psy4.label>
+  <psy4.labelShort>超能4</psy4.labelShort>
+
+  <axen1.label>外界技術 (応用)</axen1.label>
+  <axen1.labelShort>外界1</axen1.labelShort>
+
+  <cmf4.label>贅沢品 (宇宙世紀)</cmf4.label>
+  <cmf4.labelShort>快適4</cmf4.labelShort>
+
+  <bal4.label>ガイド付 (宇宙世紀)</bal4.label>
+  <bal4.labelShort>体幹4</bal4.labelShort>
+
+  <Mspd4t.label>ターボ付 (宇宙世紀)</Mspd4t.label>
+  <Mspd4t.labelShort>速攻4</Mspd4t.labelShort>
+
+  <dam4.label>ショック攻撃 (宇宙世紀)</dam4.label>
+  <dam4.labelShort>攻撃4</dam4.labelShort>
+
+  <en4.label>エネルギー補給 (宇宙世紀)</en4.label>
+  <en4.labelShort>改良4</en4.labelShort>
+
+  <cut4.label>一刀両断 (宇宙世紀)</cut4.label>
+  <cut4.labelShort>切味4</cut4.labelShort>
+
+  <mmed4.label>無菌化 (宇宙世紀)</mmed4.label>
+  <mmed4.labelShort>衛生4</mmed4.labelShort>
+
+  <mwrk4.label>自動化 (宇宙世紀)</mwrk4.label>
+  <mwrk4.labelShort>作業4</mwrk4.labelShort>
+
+  <acc4.label>レーザー照準付 (宇宙世紀)</acc4.label>
+  <acc4.labelShort>精密4</acc4.labelShort>
+
+  <Mspd4r.label>再装填 (宇宙世紀)</Mspd4r.label>
+  <Mspd4r.labelShort>速攻4</Mspd4r.labelShort>
+
+  <mov4.label>滑走式 (宇宙世紀)</mov4.label>
+  <mov4.labelShort>動作4</mov4.labelShort>
+
+  <dec4.label>豪華絢爛 (宇宙世紀)</dec4.label>
+  <dec4.labelShort>装飾4</dec4.labelShort>
+
+  <rxen2.label>外界技術 (応用)</rxen2.label>
+  <rxen2.labelShort>外界2</rxen2.labelShort>
+
+  <mod4.label>特注品 (宇宙世紀)</mod4.label>
+  <mod4.labelShort>改造4</mod4.labelShort>
+
+
+  <!-- ARTIFACT infusions begin -->
+
+  <pad5.label>耐衝撃性 (技術の粋)</pad5.label>
+  <pad5.labelShort>厚手5</pad5.labelShort>
+
+  <def5.label>弾道偏向 (技術の粋)</def5.label>
+  <def5.labelShort>防御5</def5.labelShort>
+
+  <res5.label>耐火性 (技術の粋)</res5.label>
+  <res5.labelShort>耐性5</res5.labelShort>
+
+  <hot5.label>発熱性 (技術の粋)</hot5.label>
+  <hot5.labelShort>耐寒5</hot5.labelShort>
+
+  <coo5.label>放熱性 (技術の粋)</coo5.label>
+  <coo5.labelShort>耐暑5</coo5.labelShort>
+
+  <sci5.label>走査式 (技術の粋)</sci5.label>
+  <sci5.labelShort>研究5</sci5.labelShort>
+
+  <awrk5.label>鉄筋繊維織込 (技術の粋)</awrk5.label>
+  <awrk5.labelShort>作業5</awrk5.labelShort>
+
+  <amed5.label>無菌化 (技術の粋)</amed5.label>
+  <amed5.labelShort>衛生5</amed5.labelShort>
+
+  <skl5.label>神経ワイヤ織込 (技術の粋)</skl5.label>
+  <skl5.labelShort>学習5</skl5.labelShort>
+
+  <ani5.label>フェロモン付 (技術の粋)</ani5.label>
+  <ani5.labelShort>動物5</ani5.labelShort>
+
+  <Aspd5_apparel.label>滑走ワイヤ織込 (技術の粋)</Aspd5_apparel.label>
+  <Aspd5_apparel.labelShort>俊敏5</Aspd5_apparel.labelShort>
+
+  <Aspd5_ranged.label>滑走ワイヤ織込 (技術の粋)</Aspd5_ranged.label>
+  <Aspd5_ranged.labelShort>俊敏5</Aspd5_ranged.labelShort>
+
+  <Aspd5_melee.label>滑走ワイヤ織込 (技術の粋)</Aspd5_melee.label>
+  <Aspd5_melee.labelShort>俊敏5</Aspd5_melee.labelShort>
+
+  <bal5.label>ガイド付 (技術の粋)</bal5.label>
+  <bal5.labelShort>体幹5</bal5.labelShort>
+
+  <psy5.label>バリア付 (技術の粋)</psy5.label>
+  <psy5.labelShort>超能5</psy5.labelShort>
+
+  <axen2.label>外界技術 (先端)</axen2.label>
+  <axen2.labelShort>外界2</axen2.labelShort>
+
+  <cmf5.label>贅沢品 (技術の粋)</cmf5.label>
+  <cmf5.labelShort>快適5</cmf5.labelShort>
+
+  <Mspd5t.label>ターボ付 (技術の粋)</Mspd5t.label>
+  <Mspd5t.labelShort>速攻5</Mspd5t.labelShort>
+
+  <dam5.label>ショック攻撃 (技術の粋)</dam5.label>
+  <dam5.labelShort>攻撃5</dam5.labelShort>
+
+  <en5.label>エネルギー補給 (技術の粋)</en5.label>
+  <en5.labelShort>改良5</en5.labelShort>
+
+  <cut5.label>一刀両断 (技術の粋)</cut5.label>
+  <cut5.labelShort>切味5</cut5.labelShort>
+
+  <mmed5.label>無菌化 (技術の粋)</mmed5.label>
+  <mmed5.labelShort>衛生5</mmed5.labelShort>
+
+  <mwrk5.label>自動化 (技術の粋)</mwrk5.label>
+  <mwrk5.labelShort>作業5</mwrk5.labelShort>
+
+  <acc5.label>レーザー照準付 (技術の粋)</acc5.label>
+  <acc5.labelShort>精密5</acc5.labelShort>
+
+  <Mspd5r.label>再装填 (技術の粋)</Mspd5r.label>
+  <Mspd5r.labelShort>速攻5</Mspd5r.labelShort>
+
+  <mov5.label>滑走式 (技術の粋)</mov5.label>
+  <mov5.labelShort>動作5</mov5.labelShort>
+
+  <dec5.label>豪華絢爛 (技術の粋)</dec5.label>
+  <dec5.labelShort>装飾5</dec5.labelShort>
+
+  <rxen3.label>外界技術 (先端)</rxen3.label>
+  <rxen3.labelShort>外界3</rxen3.labelShort>
+
+  <mod5.label>特注品 (技術の粋)</mod5.label>
+  <mod5.labelShort>改造5</mod5.labelShort>
+
+  <rand.label>ランディ愛用</rand.label>
+  <rand.labelShort>ラン</rand.labelShort>
+
+  <cass.label>カサンドラ愛用</cass.label>
+  <cass.labelShort>カサ</cass.labelShort>
+
+  <phoe.label>フェーベ愛用</phoe.label>
+  <phoe.labelShort>フェ</phoe.labelShort>
+
+
+</LanguageData>

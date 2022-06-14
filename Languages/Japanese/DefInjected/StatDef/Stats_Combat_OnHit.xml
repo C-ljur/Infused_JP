@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- General -->
+
+  <InfuseDamageChance.label>加護ダメージ確率</InfuseDamageChance.label>
+  <InfuseDamageChance.description>攻撃時に確率で追加で加護のダメージを与える。</InfuseDamageChance.description>
+
+
+  <!-- Acid -->
+
+  <AcidDamageAmount.label>腐食ダメージボーナス</AcidDamageAmount.label>
+  <AcidDamageAmount.description>加護憑きの攻撃に酸のダメージボーナスを与える。</AcidDamageAmount.description>
+
+
+  <!-- Fire -->
+
+  <FireDamageAmount.label>燃焼ダメージボーナス</FireDamageAmount.label>
+  <FireDamageAmount.description>加護憑きの攻撃に炎のダメージボーナスを与える。</FireDamageAmount.description>
+
+
+  <!-- Frost -->
+
+  <FrostDamageAmount.label>氷結ダメージボーナスfrost damage bonus</FrostDamageAmount.label>
+  <FrostDamageAmount.description>加護憑きの攻撃に氷のダメージボーナスを与える。</FrostDamageAmount.description>
+
+
+  <!-- Poison -->
+
+  <ToxicDamageAmount.label>有毒ダメージボーナス</ToxicDamageAmount.label>
+  <ToxicDamageAmount.description>加護憑きの攻撃に毒のダメージボーナスを与える。</ToxicDamageAmount.description>
+
+
+  <!-- Explosive -->
+
+  <ExplosiveDamageAmount.label>爆破ダメージボーナス</ExplosiveDamageAmount.label>
+  <ExplosiveDamageAmount.description>加護憑きの攻撃に爆発のダメージボーナスを与える。</ExplosiveDamageAmount.description>
+
+
+  <!-- Electric -->
+
+  <ElectricDamageAmount.label>電撃ダメージボーナス</ElectricDamageAmount.label>
+  <ElectricDamageAmount.description>加護憑きの攻撃に電撃のダメージボーナスを与える。</ElectricDamageAmount.description>
+
+
+  <!-- Time -->
+
+  <TimeDamageAmount.label>麻痺ダメージボーナス</TimeDamageAmount.label>
+  <TimeDamageAmount.description>加護憑きの攻撃に硬直のダメージボーナスを与える。</TimeDamageAmount.description>
+
+
+</LanguageData>

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <InfusedAmplifier.label>加護封入器</InfusedAmplifier.label>
+  <InfusedAmplifier.description>一度だけ加護を注ぎ込める装置です。抽入するとアイテムに不思議な力を付与します。</InfusedAmplifier.description>
+
+  <InfusedAmplifierEmpty.label>加護封入器 (空)</InfusedAmplifierEmpty.label>
+  <InfusedAmplifierEmpty.description>一度だけ加護を回収できる装置です。アイテムからランダムに加護を取り出せます。</InfusedAmplifierEmpty.description>
+
+
+</LanguageData>

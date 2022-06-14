@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <SawedOff_Common.label>ソードオフ式</SawedOff_Common.label>
+  <SawedOff_Common.labelShort>短銃</SawedOff_Common.labelShort>
+
+  <SawedOff_Uncommon.label>ソードオフ式</SawedOff_Uncommon.label>
+  <SawedOff_Uncommon.labelShort>短銃</SawedOff_Uncommon.labelShort>
+
+  <SawedOff_Rare.label>ソードオフ式</SawedOff_Rare.label>
+  <SawedOff_Rare.labelShort>短銃</SawedOff_Rare.labelShort>
+
+  <SawedOff_Epic.label>ソードオフ式</SawedOff_Epic.label>
+  <SawedOff_Epic.labelShort>短銃</SawedOff_Epic.labelShort>
+
+
+</LanguageData>

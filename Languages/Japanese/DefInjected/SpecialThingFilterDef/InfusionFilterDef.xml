@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <AllowInfusedApparel.label>加護憑きを許可</AllowInfusedApparel.label>
+  <AllowInfusedApparel.description>加護の憑いた衣服を許可します。</AllowInfusedApparel.description>
+
+  <AllowNonInfusedApparel.label>加護無しを許可</AllowNonInfusedApparel.label>
+  <AllowNonInfusedApparel.description>加護の憑いていない衣服を許可します。</AllowNonInfusedApparel.description>
+
+  <AllowInfusedWeapons.label>加護憑きを許可</AllowInfusedWeapons.label>
+  <AllowInfusedWeapons.description>加護の憑いた武器を許可します。</AllowInfusedWeapons.description>
+
+  <AllowNonInfusedWeapons.label>加護無しを許可</AllowNonInfusedWeapons.label>
+  <AllowNonInfusedWeapons.description>加護の憑いていない武器を許可します。</AllowNonInfusedWeapons.description>
+
+
+</LanguageData>

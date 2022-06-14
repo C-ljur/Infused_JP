@@ -1,0 +1,259 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Tier 0 -->
+
+  <Light.label>軽量化</Light.label>
+  <Light.labelShort>軽量</Light.labelShort>
+
+  <LightApparel.label>軽量化</LightApparel.label>
+  <LightApparel.labelShort>軽量</LightApparel.labelShort>
+
+  <Heavy.label>重厚化</Heavy.label>
+  <Heavy.labelShort>重厚</Heavy.labelShort>
+
+  <HeavyRange.label>重厚化</HeavyRange.label>
+  <HeavyRange.labelShort>重厚</HeavyRange.labelShort>
+
+  <Small.label>小型</Small.label>
+  <Small.labelShort>小型</Small.labelShort>
+
+  <Big.label>大型</Big.label>
+  <Big.labelShort>大型</Big.labelShort>
+
+  <Long.label>長い</Long.label>
+  <Long.labelShort>長型</Long.labelShort>
+
+  <Thick.label>厚い</Thick.label>
+  <Thick.labelShort>厚手</Thick.labelShort>
+
+  <Tough.label>強靭性</Tough.label>
+  <Tough.labelShort>強靭性</Tough.labelShort>
+
+
+  <!-- Tier 1 -->
+
+  <Studded.label>頑強性</Studded.label>
+  <Studded.labelShort>頑強</Studded.labelShort>
+
+  <Fast.label>軽快的</Fast.label>
+  <Fast.labelShort>軽快</Fast.labelShort>
+
+  <Careful.label>慎重性</Careful.label>
+  <Careful.labelShort>慎重</Careful.labelShort>
+
+  <CarefulRange.label>慎重性</CarefulRange.label>
+  <CarefulRange.labelShort>慎重</CarefulRange.labelShort>
+
+  <Attractive.label>魅力的</Attractive.label>
+  <Attractive.labelShort>魅力</Attractive.labelShort>
+
+  <Hard.label>硬化</Hard.label>
+  <Hard.labelShort>硬化</Hard.labelShort>
+
+  <Soft.label>軟化</Soft.label>
+  <Soft.labelShort>軟化</Soft.labelShort>
+
+  <Mercenary.label>貪欲性</Mercenary.label>
+  <Mercenary.labelShort>貪欲</Mercenary.labelShort>
+
+  <MercenaryRange.label>貪欲性</MercenaryRange.label>
+  <MercenaryRange.labelShort>貪欲</MercenaryRange.labelShort>
+
+  <Spiked.label>トゲ付き</Spiked.label>
+  <Spiked.labelShort>トゲ</Spiked.labelShort>
+
+  <Warm.label>暖かい</Warm.label>
+  <Warm.labelShort>温暖</Warm.labelShort>
+
+  <Breezing.label>そよ吹く</Breezing.label>
+  <Breezing.labelShort>微風</Breezing.labelShort>
+
+
+  <!-- Tier 2 ! -->
+
+  <Charming.label>魅惑的</Charming.label>
+  <Charming.labelShort>魅惑</Charming.labelShort>
+
+  <Siege.label>攻城用</Siege.label>
+  <Siege.labelShort>攻城</Siege.labelShort>
+
+  <Precise.label>精密的</Precise.label>
+  <Precise.labelShort>精密</Precise.labelShort>
+
+  <Clean.label>清潔的</Clean.label>
+  <Clean.labelShort>清潔</Clean.labelShort>
+
+  <Assaulting.label>襲撃用</Assaulting.label>
+  <Assaulting.labelShort>襲撃</Assaulting.labelShort>
+
+  <AssaultingRange.label>襲撃用</AssaultingRange.label>
+  <AssaultingRange.labelShort>襲撃</AssaultingRange.labelShort>
+
+  <Healing.label>回復用</Healing.label>
+  <Healing.labelShort>回復</Healing.labelShort>
+
+  <Hunting.label>狩猟用</Hunting.label>
+  <Hunting.labelShort>狩猟</Hunting.labelShort>
+
+  <Cooking.label>調理用</Cooking.label>
+  <Cooking.labelShort>調理</Cooking.labelShort>
+
+  <Mining.label>採掘用</Mining.label>
+  <Mining.labelShort>採掘</Mining.labelShort>
+
+  <Establishing.label>設立用</Establishing.label>
+  <Establishing.labelShort>設立</Establishing.labelShort>
+
+  <Farming.label>農業用</Farming.label>
+  <Farming.labelShort>農業</Farming.labelShort>
+
+  <Stonevein.label>石頭</Stonevein.label>
+  <Stonevein.labelShort>石頭</Stonevein.labelShort>
+
+  <Metalvein.label>鉄血</Metalvein.label>
+  <Metalvein.labelShort>鉄血</Metalvein.labelShort>
+
+  <Taming.label>手懐け用</Taming.label>
+  <Taming.labelShort>手懐</Taming.labelShort>
+
+  <Professional.label>玄人用</Professional.label>
+  <Professional.labelShort>玄人</Professional.labelShort>
+
+  <Unholy.label>罪深い</Unholy.label>
+  <Unholy.labelShort>大罪</Unholy.labelShort>
+
+  <UnholyRange.label>罪深い</UnholyRange.label>
+  <UnholyRange.labelShort>大罪</UnholyRange.labelShort>
+
+  <Blocking.label>妨害用</Blocking.label>
+  <Blocking.labelShort>妨害</Blocking.labelShort>
+
+  <Protecting.label>守護用</Protecting.label>
+  <Protecting.labelShort>守護</Protecting.labelShort>
+
+  <Swerving.label>曲折性</Swerving.label>
+  <Swerving.labelShort>曲折</Swerving.labelShort>
+
+  <Heating.label>灼熱性</Heating.label>
+  <Heating.labelShort>灼熱</Heating.labelShort>
+
+  <Chilling.label>冷凍性</Chilling.label>
+  <Chilling.labelShort>冷凍</Chilling.labelShort>
+
+  <Coated.label>上塗り済</Coated.label>
+  <Coated.labelShort>上塗</Coated.labelShort>
+
+
+  <!-- Tier 3 ! -->
+
+  <Homing.label>追尾性</Homing.label>
+  <Homing.labelShort>追尾</Homing.labelShort>
+
+  <HomingRange.label>追尾性</HomingRange.label>
+  <HomingRange.labelShort>追尾</HomingRange.labelShort>
+
+  <Swift.label>迅速化</Swift.label>
+  <Swift.labelShort>迅速</Swift.labelShort>
+
+  <SwiftRanged.label>迅速化</SwiftRanged.label>
+  <SwiftRanged.labelShort>迅速</SwiftRanged.labelShort>
+
+  <SwiftMelee.label>迅速化</SwiftMelee.label>
+  <SwiftMelee.labelShort>迅速</SwiftMelee.labelShort>
+
+
+  <!-- Keeping to avoid breaking saves -->
+
+  <SwiftApparel.label>迅速化</SwiftApparel.label>
+  <SwiftApparel.labelShort>迅速</SwiftApparel.labelShort>
+
+  <Ancient.label>古代調</Ancient.label>
+  <Ancient.labelShort>古代</Ancient.labelShort>
+
+  <AncientRange.label>古代調</AncientRange.label>
+  <AncientRange.labelShort>古代</AncientRange.labelShort>
+
+  <AncientApparel.label>古代調</AncientApparel.label>
+  <AncientApparel.labelShort>古代</AncientApparel.labelShort>
+
+  <Controlling.label>管理者用</Controlling.label>
+  <Controlling.labelShort>管理</Controlling.labelShort>
+
+  <Fel.label>ド畜生用</Fel.label>
+  <Fel.labelShort>悪態</Fel.labelShort>
+
+  <FelRange.label>ド畜生用</FelRange.label>
+  <FelRange.labelShort>悪態</FelRange.labelShort>
+
+  <Communicating.label>伝達用</Communicating.label>
+  <Communicating.labelShort>伝達</Communicating.labelShort>
+
+  <Absorbing.label>耐衝撃性</Absorbing.label>
+  <Absorbing.labelShort>耐衝</Absorbing.labelShort>
+
+  <Burning.label>燃ゆる</Burning.label>
+  <Burning.labelShort>炎焼</Burning.labelShort>
+
+  <Freezing.label>凍える</Freezing.label>
+  <Freezing.labelShort>氷凍</Freezing.labelShort>
+
+  <Modulating.label>緩和的</Modulating.label>
+  <Modulating.labelShort>緩和</Modulating.labelShort>
+
+
+  <!-- Tier 4 ! -->
+
+  <Destructive.label>破壊的</Destructive.label>
+  <Destructive.labelShort>破壊</Destructive.labelShort>
+
+  <Amplified.label>増幅化</Amplified.label>
+  <Amplified.labelShort>増幅</Amplified.labelShort>
+
+  <Scribing.label>筆写補助</Scribing.label>
+  <Scribing.labelShort>筆写</Scribing.labelShort>
+
+  <Everprotecting.label>完全防御</Everprotecting.label>
+  <Everprotecting.labelShort>全防</Everprotecting.labelShort>
+
+  <Deflecting.label>弾道偏向性</Deflecting.label>
+  <Deflecting.labelShort>受流</Deflecting.labelShort>
+
+  <Gravitational.label>引力性</Gravitational.label>
+  <Gravitational.labelShort>引力</Gravitational.labelShort>
+
+  <Fluctuating.label>変動性</Fluctuating.label>
+  <Fluctuating.labelShort>変動</Fluctuating.labelShort>
+
+  <Icy.label>冷感</Icy.label>
+  <Icy.labelShort>氷</Icy.labelShort>
+
+  <Volcanic.label>大噴火</Volcanic.label>
+  <Volcanic.labelShort>火山</Volcanic.labelShort>
+
+  <Influential.label>優位性</Influential.label>
+  <Influential.labelShort>有力</Influential.labelShort>
+
+
+  <!-- Tier 5 ! -->
+
+  <Invulnerable.label>不滅</Invulnerable.label>
+  <Invulnerable.labelShort>不滅</Invulnerable.labelShort>
+
+  <Flexing.label>筋肉補助</Flexing.label>
+  <Flexing.labelShort>筋助</Flexing.labelShort>
+
+  <Hypercharged.label>一撃入魂</Hypercharged.label>
+  <Hypercharged.labelShort>入魂</Hypercharged.labelShort>
+
+  <lightwalk_apparel.label>身軽</lightwalk_apparel.label>
+  <lightwalk_apparel.labelShort>身軽</lightwalk_apparel.labelShort>
+
+  <lightwalk_ranged.label>身軽</lightwalk_ranged.label>
+  <lightwalk_ranged.labelShort>身軽</lightwalk_ranged.labelShort>
+
+  <lightwalk_melee.label>身軽</lightwalk_melee.label>
+  <lightwalk_melee.labelShort>身軽</lightwalk_melee.labelShort>
+
+
+</LanguageData>

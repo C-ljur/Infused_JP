@@ -1,0 +1,163 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Tier 0 -->
+
+  <Warrior.label>戦士の加護</Warrior.label>
+  <Warrior.labelShort>戦士</Warrior.labelShort>
+
+  <Scout.label>スカウトの加護</Scout.label>
+  <Scout.labelShort>勧誘</Scout.labelShort>
+
+  <Ranger.label>レンジャーの加護</Ranger.label>
+  <Ranger.labelShort>兵士</Ranger.labelShort>
+
+  <Worker.label>労働者の加護</Worker.label>
+  <Worker.labelShort>労働</Worker.labelShort>
+
+  <Guard.label>護衛の加護</Guard.label>
+  <Guard.labelShort>護衛</Guard.labelShort>
+
+
+  <!-- Tier 1 ! -->
+
+  <Mind.label>精神の加護</Mind.label>
+  <Mind.labelShort>精神</Mind.labelShort>
+
+  <Knowledge.label>知識の加護</Knowledge.label>
+  <Knowledge.labelShort>知識</Knowledge.labelShort>
+
+  <Discovery.label>発見の加護</Discovery.label>
+  <Discovery.labelShort>発見</Discovery.labelShort>
+
+  <Labour.label>労務の加護</Labour.label>
+  <Labour.labelShort>労務</Labour.labelShort>
+
+  <Haste.label>急速の加護</Haste.label>
+  <Haste.labelShort>急速</Haste.labelShort>
+
+  <Summer.label>夏の加護</Summer.label>
+  <Summer.labelShort>夏</Summer.labelShort>
+
+  <Winter.label>冬の加護</Winter.label>
+  <Winter.labelShort>冬</Winter.labelShort>
+
+  <Defense.label>防御の加護</Defense.label>
+  <Defense.labelShort>防御</Defense.labelShort>
+
+
+  <!-- Tier 2 ! -->
+
+  <Success.label>成功の加護</Success.label>
+  <Success.labelShort>成功</Success.labelShort>
+
+  <Passion.label>情熱の加護</Passion.label>
+  <Passion.labelShort>情熱</Passion.labelShort>
+
+  <Blessing.label>祝福の加護</Blessing.label>
+  <Blessing.labelShort>祝福</Blessing.labelShort>
+
+  <Diligence.label>丹念の加護</Diligence.label>
+  <Diligence.labelShort>丹念</Diligence.labelShort>
+
+  <Research.label>研究の加護</Research.label>
+  <Research.labelShort>研究</Research.labelShort>
+
+  <Fastwalk.label>俊足の加護</Fastwalk.label>
+  <Fastwalk.labelShort>俊足</Fastwalk.labelShort>
+
+  <Friendship.label>友情の加護</Friendship.label>
+  <Friendship.labelShort>友情</Friendship.labelShort>
+
+  <Desert.label>砂漠の加護</Desert.label>
+  <Desert.labelShort>砂漠</Desert.labelShort>
+
+  <Tundra.label>凍土の加護</Tundra.label>
+  <Tundra.labelShort>凍土</Tundra.labelShort>
+
+  <Protection.label>守備の加護</Protection.label>
+  <Protection.labelShort>守備</Protection.labelShort>
+
+
+  <!-- Tier 3 ! -->
+
+  <Memories.label>記憶の加護</Memories.label>
+  <Memories.labelShort>記憶</Memories.labelShort>
+
+  <Experiments.label>実験の加護</Experiments.label>
+  <Experiments.labelShort>実験</Experiments.labelShort>
+
+  <Everwork.label>勤労の加護</Everwork.label>
+  <Everwork.labelShort>勤労</Everwork.labelShort>
+
+  <Persuation.label>雄弁の加護</Persuation.label>
+  <Persuation.labelShort>雄弁</Persuation.labelShort>
+
+  <Encounter.label>邂逅の加護</Encounter.label>
+  <Encounter.labelShort>邂逅</Encounter.labelShort>
+
+  <Momentum.label>進撃の加護</Momentum.label>
+  <Momentum.labelShort>進撃</Momentum.labelShort>
+
+  <Victory.label>勝利の加護</Victory.label>
+  <Victory.labelShort>勝利</Victory.labelShort>
+
+  <Sight.label>目視の加護</Sight.label>
+  <Sight.labelShort>目視</Sight.labelShort>
+
+  <Flame.label>火炎の加護</Flame.label>
+  <Flame.labelShort>火炎</Flame.labelShort>
+
+  <Ice.label>氷冷の加護</Ice.label>
+  <Ice.labelShort>氷冷</Ice.labelShort>
+
+  <Stronghold.label>要塞の加護</Stronghold.label>
+  <Stronghold.labelShort>要塞</Stronghold.labelShort>
+
+
+  <!-- Tier 4 ! -->
+
+  <Omnipresence.label>普遍性の加護</Omnipresence.label>
+  <Omnipresence.labelShort>普遍</Omnipresence.labelShort>
+
+  <Omnipotence.label>全能性の加護</Omnipotence.label>
+  <Omnipotence.labelShort>全能</Omnipotence.labelShort>
+
+  <FatalBlow.label>破滅の加護</FatalBlow.label>
+  <FatalBlow.labelShort>破滅</FatalBlow.labelShort>
+
+  <Hypervision.label>超視の加護</Hypervision.label>
+  <Hypervision.labelShort>超視</Hypervision.labelShort>
+
+  <Master.label>達人の加護</Master.label>
+  <Master.labelShort>達人</Master.labelShort>
+
+  <Alliance.label>協力の加護</Alliance.label>
+  <Alliance.labelShort>協力</Alliance.labelShort>
+
+  <Sunlight.label>日光の加護</Sunlight.label>
+  <Sunlight.labelShort>日光</Sunlight.labelShort>
+
+  <Moonlight.label>月光の加護</Moonlight.label>
+  <Moonlight.labelShort>月光</Moonlight.labelShort>
+
+  <Titanguard.label>鉄壁の加護</Titanguard.label>
+  <Titanguard.labelShort>鉄壁</Titanguard.labelShort>
+
+
+  <!-- Tier 5 ! -->
+
+  <Infinity.label>恒久性の加護</Infinity.label>
+  <Infinity.labelShort>恒久</Infinity.labelShort>
+
+  <Possibility.label>可能性の加護</Possibility.label>
+  <Possibility.labelShort>可能</Possibility.labelShort>
+
+  <Cycle.label>輪廻の加護</Cycle.label>
+  <Cycle.labelShort>輪廻</Cycle.labelShort>
+
+  <Invulnerability.label>不滅性の加護</Invulnerability.label>
+  <Invulnerability.labelShort>不滅</Invulnerability.labelShort>
+
+
+</LanguageData>
