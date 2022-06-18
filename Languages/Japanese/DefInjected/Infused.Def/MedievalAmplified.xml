@@ -6,11 +6,11 @@
   <Warrior.label>戦士の加護</Warrior.label>
   <Warrior.labelShort>戦士</Warrior.labelShort>
 
-  <Scout.label>スカウトの加護</Scout.label>
-  <Scout.labelShort>勧誘</Scout.labelShort>
+  <Scout.label>斥候の加護</Scout.label>
+  <Scout.labelShort>偵察</Scout.labelShort>
 
-  <Ranger.label>レンジャーの加護</Ranger.label>
-  <Ranger.labelShort>兵士</Ranger.labelShort>
+  <Ranger.label>巡視の加護</Ranger.label>
+  <Ranger.labelShort>巡視</Ranger.labelShort>
 
   <Worker.label>労働者の加護</Worker.label>
   <Worker.labelShort>労働</Worker.labelShort>
