@@ -20,7 +20,14 @@
   <Infused.Rare>レア</Infused.Rare>
   <Infused.Epic>上級</Infused.Epic>
   <Infused.Legendary>特級</Infused.Legendary>
-  <Infused.Artifact>伝説級</Infused.Artifact>
+  <Infused.Artifact>超級</Infused.Artifact>
+
+  <!-- Targetables -->
+  <Infused.Allows>使用可</Infused.Allows>
+  <Infused.Allows.Apparel>衣服</Infused.Allows.Apparel>
+  <Infused.Allows.Melee>近接武器</Infused.Allows.Melee>
+  <Infused.Allows.Ranged>遠距離武器</Infused.Allows.Ranged>
+  <Infused.Allows.Furniture>家具</Infused.Allows.Furniture>
 
   <!-- Infused settings -->
   <Infused.Settings.Multiplier>加護付与の確率乗数</Infused.Settings.Multiplier>
